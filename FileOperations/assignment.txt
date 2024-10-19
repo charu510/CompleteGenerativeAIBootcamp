@@ -1,0 +1,5 @@
+Hello World
+This is Charu Anant Rajput
+I am learning Python Basics Refresher
+I am enjoying it
+I wish to use it in an amazing automation project for the firm
